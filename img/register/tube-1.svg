@@ -1,0 +1,22 @@
+<svg width="56" height="240" viewBox="0 0 56 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.2">
+<g opacity="0.6">
+<rect y="8" width="28" height="224" fill="#565656"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 232H28V240C12.536 240 0 236.418 0 232Z" fill="#565656"/>
+</g>
+<g opacity="0.6">
+<rect width="28" height="224" transform="matrix(-1 0 0 1 56 8)" fill="#565656"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M56 232H28V240C43.464 240 56 236.418 56 232Z" fill="#565656"/>
+</g>
+<ellipse cx="28" cy="8" rx="28" ry="8" fill="#565656"/>
+</g>
+<g opacity="0.6">
+<rect y="202" width="28" height="30" fill="#565656"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 232H28V240C12.536 240 0 236.418 0 232Z" fill="#565656"/>
+</g>
+<g opacity="0.6">
+<rect width="28" height="30" transform="matrix(-1 0 0 1 56 202)" fill="#565656"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M56 232H28V240C43.464 240 56 236.418 56 232Z" fill="#565656"/>
+</g>
+<ellipse cx="28" cy="202" rx="28" ry="8" fill="#565656"/>
+</svg>
